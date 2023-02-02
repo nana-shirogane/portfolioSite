@@ -19,7 +19,6 @@ export default {
 				{ title: 'top', path: '/' },
 				{ title: 'profile', path: '/profile' },
 				{ title: 'skills', path: '/skills' },
-				// { title: 'outputs', path: '/outputs' }
 			]
 		}
 	}

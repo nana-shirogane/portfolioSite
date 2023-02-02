@@ -9,7 +9,7 @@ export default {
 	name: 'topPage',
 	data() {
 		return {
-			text: 'GHOST TOWN XXXXX'
+			text: 'WELCOME'
 		}
 	}
 }
